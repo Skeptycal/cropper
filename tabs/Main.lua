@@ -1,4 +1,5 @@
 -- Cropper
+-- simple app to aid in image cropping
 
 -- Use this function to perform your initial setup
 function setup()

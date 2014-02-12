@@ -7,7 +7,7 @@ end
 function LoadButton:draw()
     -- Codea does not automatically call this method
     strokeWidth(1)
-    fill(0, 0, 255, 255)
+    fill(89, 89, 135)
     stroke(self.myColor)
     rectMode(CORNER)
     rect(50, 650, 100, 60)

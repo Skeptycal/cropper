@@ -13,7 +13,7 @@ function setup()
     filename = Filename()
     loadbutton = LoadButton()
     
-    local c = color(9, 0, 255, 255)
+    local c = color(88, 89, 135, 255)
     
     cropbutton = Button("CROP", 250, 650, 100, 60, c)
     cropbutton.clicked = cropSelection

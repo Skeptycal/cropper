@@ -3,7 +3,7 @@
 -- Use this function to perform your initial setup
 function setup()
     displayMode(FULLSCREEN)
-    img = readImage("Documents:pixelcar")
+    img = readImage("Documents:ty")
   
     w, h = spriteSize(img)  
     sx, sy = 1.0, 1.0

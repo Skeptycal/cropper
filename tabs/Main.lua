@@ -46,7 +46,7 @@ end
 -- This function gets called once every frame
 function draw()
     -- This sets a dark background color 
-    background(111, 111, 187, 255)
+    background(121, 121, 182, 255)
     resetStyle()
 
     -- This sets the line thickness
